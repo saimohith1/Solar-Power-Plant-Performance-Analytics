@@ -6,7 +6,6 @@ This project presents a multi-page Power BI dashboard designed to monitor and an
 The solution simulates a SCADA-style monitoring system and enables executive reporting, operational diagnostics, and inverter-level investigation.
 Report preview images are available in the **“Report Previews”** folder.
 
----
 
 ## Business Objective
 
@@ -18,7 +17,6 @@ To design a data-driven monitoring system capable of:
 * Monitoring performance ratio trends
 * Supporting maintenance recommendations
 
----
 
 ## Data Model
 
@@ -29,7 +27,6 @@ To design a data-driven monitoring system capable of:
 * Inverter-level granularity
 * Daily aggregation using DAX
 
----
 
 ## Dashboard Structure
 
@@ -83,7 +80,6 @@ Decision-ready summary:
 * Top performing inverter
 * Automated executive insight
 
----
 
 ## Key DAX Measures
 
@@ -96,7 +92,6 @@ Decision-ready summary:
 * Top Inverter Identification
 * Dynamic Insight Logic
 
----
 
 ## Tools Used
 
@@ -105,14 +100,12 @@ Decision-ready summary:
 * Power Query
 * Star Schema Data Modeling
 
----
 
 ## Dataset
 
 Solar Power Generation Dataset
 Source: Kaggle
 
----
 
 ## Project Highlights
 
