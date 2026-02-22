@@ -114,5 +114,3 @@ Source: Kaggle
 * Designed drill-through diagnostic workflow
 * Developed condition-based automated insights
 * Created an executive-ready multi-page analytics system
-
-This one is solid. Now we position it strategically.
